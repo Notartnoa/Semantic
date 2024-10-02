@@ -1,1 +1,1 @@
-# Semantic
+Praktikum Blog Semantic
